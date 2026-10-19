@@ -1,8 +1,8 @@
 ---
 publish: true
-title: TO SCORCH THE EARTH OVERVIEW
+title: TO SCORCH THE EARTH
 created: 2026-09-23T14:06:52.608Z
-modified: 2026-10-19T12:04:50.384Z
+modified: 2026-10-19T14:39:47.338Z
 tags:
   - tste
   - setting

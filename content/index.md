@@ -2,7 +2,7 @@
 publish: true
 title: MAIN
 created: 2026-09-23T14:06:52.388Z
-modified: 2026-10-19T12:57:30.667Z
+modified: 2026-10-19T14:46:58.031Z
 ---
 
 _pick through the refractions to find your way ..._<br><br>
@@ -18,3 +18,5 @@ _pick through the refractions to find your way ..._<br><br>
 > **[[VICES AND VIRTUES/index|VICES & VIRTUES.]]** : a wip death game concept featuring a cast of characters inspired by the cardinal sins and virtues. <br>
 > **[[CLUB ZR/index|CLUB ZR.]]** : a club filled with anything the human mind can conjure up that sits in a snug space between reality.  **\[CW: DISCUSSION OF HARD KINK/DARK PARAPHILIA/DD:DNE]**<br>
 > **[[EOS]]** : an open, collaborative setting based around self-indulgence and common fantasy/animanga tropes.
+
+[[test]]
