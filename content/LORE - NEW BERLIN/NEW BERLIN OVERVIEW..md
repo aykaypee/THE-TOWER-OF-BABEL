@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-23T14:06:52.640Z
-modified: 2026-10-19T09:28:11.968Z
+modified: 2026-10-19T12:16:26.619Z
 tags:
   - newberlin
   - setting
