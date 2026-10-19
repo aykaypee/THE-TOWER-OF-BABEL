@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-23T14:06:52.608Z
-modified: 2026-10-15T12:06:52.323Z
+modified: 2026-10-19T09:44:03.737Z
 tags:
   - tste
   - setting
@@ -9,11 +9,11 @@ tags:
 
 # **CHARACTERS**
 
-_[[BEATHA|beatha ...]]_
-**[[CORRADHÍN A. MOORE]]** | a formerly beathain knight who now wanders the lands, trying to find traces of what was once taken from him.
-**[[FAELAN V. COLLINS]]** |
-**[[IFREANN F. MACKENNA]]** |
-**[[MR-SN]]** |
+_[[BEATHA|beatha ...]]_<br>
+**[[CORRADHÍN A. MOORE]]** | a formerly beathain knight who now wanders the lands, trying to find traces of what was once taken from him.<br>
+**[[FAELAN V. COLLINS]]** | <br>
+**[[IFREANN F. MACKENNA]]** | <br>
+**[[MR-SN]]** | <br>
 
 _[[AUSTOR|austor ...]]_
 **[[MIRIN ALBRECHT]]** |
